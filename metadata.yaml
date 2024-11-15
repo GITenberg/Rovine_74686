@@ -1,11 +1,16 @@
 _repo: Rovine_74686
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74686-h/images/cover.jpg
 creator:
   author:
     agent_name: Faldella, Giovanni
     gutenberg_agent_id: '57600'
     url: http://www.gutenberg.org/2009/agents/57600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74686#Rovine
 gutenberg_issued: '2024-11-05'
 gutenberg_type: Text
 identifiers:
